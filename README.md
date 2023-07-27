@@ -58,6 +58,9 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 ### TRUTH TABLE 
 
+![image](https://github.com/Thamizhjo/Exp-7-Synchornous-counters-/assets/123891476/666d6f4d-8a69-4f54-aba6-894caf2060a3)
+
+
 
 
 
